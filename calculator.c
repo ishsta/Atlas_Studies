@@ -72,4 +72,6 @@ int main(void) {
         }
 
     } while (power);
+
+    return 0;
 }
