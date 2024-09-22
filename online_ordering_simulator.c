@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <ctype.h>
 
 #define SHIRT_PRICE 19.99
 #define SHOE_PRICE 49.99
@@ -16,106 +17,104 @@
 #define MEX_TAX 0.16
 #define CAN_TAX 0.12
 
+
+
 int main(void) {
-    char userInput[10];
-    char shipDestination[10];
-    char shipMethod[10];
+    char clothingType[30]; // Array to store user input for clothing type
+    char destination[30];
+    char method[30];
     int shirtQuantity = 0;
     int shoeQuantity = 0;
     int pantsQuantity = 0;
     float shipCost;
     float tax;
-    char *destination[10];
-    char *method[20];
-
+    float totalCost;
+    
     do {
-
+        // Display menu options to the user
         printf("Enter the type of clothing needed (shirt, shoes, pants).\n");
         printf("Type 'exit' to quit and proceed to shipping details.\n");
 
-        scanf("%s", &userInput);
+        // Read user input for clothing type
+        scanf("%s", &clothingType);
 
-        if (strcmp(userInput, "shirt") == 0) {
-
+        // Check user ipnut and prompt for quantity based on clothing type
+        if (strcmp(clothingType, "shirt") == 0) {
             printf("Enter the quantity of shirts needed: ");
-            scanf("%d", &shirtQuantity);
-
-        } else if (strcmp(userInput, "shoes") == 0) {
-
+            scanf("%d",&shirtQuantity);
+        } else if (strcmp(clothingType, "shoes") == 0) {
             printf("Enter the quantity of shoes needed: ");
-            scanf("%d", &shoeQuantity);
-
-        } else if (strcmp(userInput, "pants") == 0) {
-
+            scanf("%d",&shoeQuantity);
+        } else if (strcmp(clothingType, "pants") == 0) {
             printf("Enter the quantity of pants needed: ");
-            scanf("%d", &pantsQuantity);
-            
-        } else if (strcmp(userInput, "exit") != 0) {
-
-            printf("Invalid clothing type. Please enter 'shirt', 'shoes', 'pants'.\n");
+            scanf("%d",&pantsQuantity);
+        } else if (strcmp(clothingType, "exit") != 0) {
+            printf("Invalid clothing type. Please enter 'shirt', 'shoes', or 'pants'.\n");
             continue;
         }
 
-        if (strcmp(userInput, "exit") != 0) {
-
-            printf("Clothing item '%s' successfully added to your cart.\n", userInput);
-
+        // If user input is not 'exit', display a success message for adding the clothing item
+        if (strcmp(clothingType, "exit") != 0) {
+            printf("Clothing item '%s' successfully added to your cart.\n", clothingType);
         }
-        
-
-    } while (strcmp(userInput, "exit") != 0);
+    }while (strcmp(clothingType, "exit") != 0); // Repeat the loop until user enters 'exit'
 
     printf("\nEnter the shipping destination (USA, Mexico, Canada): ");
-    scanf("%s", &shipDestination);
+    scanf("%s", &destination);
 
     printf("Enter the shipping method (standard, expedited): ");
-    scanf("%s", &shipMethod);
+    scanf("%s", &method);
 
-    if (strcmp(shipDestination, "usa") == 0) {
+    for(int i = 0; destination[i]; i++) {
+        destination[i] = tolower(destination[i]);
+    }
 
+    for(int i = 0; method[i]; i++) {
+        method[i] = tolower(method[i]);
+    }
+
+    if (strcmp(destination, "usa") == 0) {
+        strcpy(destination, "USA");
         tax = USA_TAX;
-        destination[10] = "USA";
-
-        if (strcmp(shipMethod, "standard") == 0) {
+        if (strcmp(method, "standard") == 0) {
+            strcpy(method, "Standard to USA");
             shipCost = USA_STANDARD;
-            method[20] = "Standard to USA";
-        } else if (strcmp(shipMethod, "expedited") == 0) {
+        } else if (strcmp(method, "expedited") == 0) {
+            strcpy(method, "Expedited to USA");
             shipCost = USA_EXPEDITED;
-            method[20] = "Expedited to USA";
         }
-
-    } /* else if (strcmp(shipDestination, "mexico") == 0) {
-
+    }else if (strcmp(destination, "mexico") == 0) {
+        strcpy(destination, "Mexico");
         tax = MEX_TAX;
-        destination[10] = "Mexico";
-
-        if (strcmp(shipMethod, "standard") == 0) {
+        if (strcmp(method, "standard") == 0) {
+            strcpy(method, "Standard to Mexico");
             shipCost = MEX_STANDARD;
-            method[20] = "Standard to Mexico";
-        } else if (strcmp(shipMethod, "expedited") == 0) {
+        } else if (strcmp(method, "expedited") == 0) {
+            strcpy(method, "Expedited to Mexico");
             shipCost = MEX_EXPEDITED;
-            method[20] = "Expedited to Mexico";
         }
-
-    } else if (strcmp(shipDestination, "canada") == 0) {
-
+    }else if (strcmp(destination, "canada") == 0) {
+        strcpy(destination, "Canada");
         tax = CAN_TAX;
-        destination[10] = "Canada";
-
-        if (strcmp(shipMethod, "standard") == 0) {
+        if (strcmp(method, "standard") == 0) {
+            strcpy(method, "Standard to Canada");
             shipCost = CAN_STANDARD;
-            method[20] = "Standard to Canada";
-        } else if (strcmp(shipMethod, "expedited") == 0) {
+        } else if (strcmp(method, "expedited") == 0) {
+            strcpy(method, "Expedited to Canada");
             shipCost = CAN_EXPEDITED;
-            method[20] = "Expedited to Canada";
         }
-
-    } */
-
-
-
+    } else {
+        printf("Invalid shipping destination. Defaulting to USA standard shipping.\n");
+        strcpy(destination, "USA");
+        tax = USA_TAX;
+        strcpy(method, "Standard to USA");
+        shipCost = USA_STANDARD;
+    }
+    
+    // Calculate the total cost based on quantities and prices of each clothing item
     float subTotal = (shirtQuantity * SHIRT_PRICE) + (shoeQuantity * SHOE_PRICE) + (pantsQuantity * PANTS_PRICE);
-    float totalCost = subTotal + shipCost + tax;
+    totalCost = subTotal + shipCost + (tax * subTotal);
+
     // Display the formatted bill
     printf("\nClothing Item\tQuantity\tPrice\t\tTotal\n");
     printf("-------------------------------------------------------\n");
@@ -124,12 +123,12 @@ int main(void) {
     printf("Pants\t\t%d\t\t$%.2f\t\t$%.2f\n", pantsQuantity, PANTS_PRICE, pantsQuantity * PANTS_PRICE);
     printf("-------------------------------------------------------\n");
     printf("Subtotal:\t\t\t\t\t$%.2f\n", subTotal);
-    printf("Shipping Destination: %s\n", destination[10]);
-    printf("Shipping Method: %s\n", method[20]);
+    printf("Shipping Destination: %s\n", destination);
+    printf("Shipping Method: %s\n", method);
     printf("Shipping Cost:\t\t\t\t\t$%.2f\n", shipCost);
-    printf("Tax (%.2f%%):\t\t\t\t\t$%.2f\n", (tax * 100) , (tax * subTotal));
+    printf("Tax (%.2f%%):\t\t\t\t\t$%.2f\n", tax * 100, tax * subTotal);
     printf("-------------------------------------------------------\n");
-    printf("Total Cost (including tax and shipping):\t$%.2f", totalCost);
+    printf("Total Cost (including tax and shipping):\t$%.2f\n", totalCost);
 
     return 0;  // Indicate successful program execution
 
