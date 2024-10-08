@@ -1,0 +1,15 @@
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\bin\Debug\net8.0\ReadingWritingStrings.exe
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\bin\Debug\net8.0\ReadingWritingStrings.deps.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\bin\Debug\net8.0\ReadingWritingStrings.runtimeconfig.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\bin\Debug\net8.0\ReadingWritingStrings.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\bin\Debug\net8.0\ReadingWritingStrings.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.AssemblyInfoInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.AssemblyInfo.cs
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.sourcelink.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\refint\ReadingWritingStrings.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ReadingWritingStrings.genruntimeconfig.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\ReadingWritingStrings\ReadingWritingStrings\obj\Debug\net8.0\ref\ReadingWritingStrings.dll
