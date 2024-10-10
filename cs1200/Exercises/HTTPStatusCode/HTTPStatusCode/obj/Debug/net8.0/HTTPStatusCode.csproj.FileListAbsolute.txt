@@ -1,0 +1,15 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\bin\Debug\net8.0\HTTPStatusCode.exe
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\bin\Debug\net8.0\HTTPStatusCode.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\bin\Debug\net8.0\HTTPStatusCode.runtimeconfig.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\bin\Debug\net8.0\HTTPStatusCode.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\bin\Debug\net8.0\HTTPStatusCode.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\refint\HTTPStatusCode.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\HTTPStatusCode.genruntimeconfig.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\HTTPStatusCode\HTTPStatusCode\obj\Debug\net8.0\ref\HTTPStatusCode.dll
