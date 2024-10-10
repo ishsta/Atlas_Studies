@@ -1,0 +1,15 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\bin\Debug\net8.0\isVowel.exe
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\bin\Debug\net8.0\isVowel.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\bin\Debug\net8.0\isVowel.runtimeconfig.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\bin\Debug\net8.0\isVowel.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\bin\Debug\net8.0\isVowel.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\refint\isVowel.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\isVowel.genruntimeconfig.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Lessons\isVowel\isVowel\obj\Debug\net8.0\ref\isVowel.dll
