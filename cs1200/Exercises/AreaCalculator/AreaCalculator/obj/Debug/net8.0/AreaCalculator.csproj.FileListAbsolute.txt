@@ -1,0 +1,15 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.exe
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.runtimeconfig.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.genruntimeconfig.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll
