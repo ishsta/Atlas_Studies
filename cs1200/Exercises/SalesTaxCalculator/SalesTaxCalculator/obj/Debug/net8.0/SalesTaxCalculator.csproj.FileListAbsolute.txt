@@ -1,0 +1,15 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.exe
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.runtimeconfig.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\net8.0\SalesTaxCalculator.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\refint\SalesTaxCalculator.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\SalesTaxCalculator.genruntimeconfig.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\net8.0\ref\SalesTaxCalculator.dll
