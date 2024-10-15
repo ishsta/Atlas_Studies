@@ -5,11 +5,10 @@ namespace MultiplicationTable
     class Program
     {
         static void Main()
-        {
-            int startRow;
-
+        {;
+            // Get row and column info from user
             Console.Write("Enter starting value for rows: ");
-            int.TryParse(Console.ReadLine(), out startRow);
+            int startRow = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Enter ending value for rows: ");
             int endRow = Convert.ToInt32(Console.ReadLine());
@@ -20,14 +19,16 @@ namespace MultiplicationTable
             Console.Write("Enter ending value for columns: ");
             int endCol = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\t");
-
+            Console.Write("\t"); // Initial tab in headers
+            
+            // Cycle through header numbers and print them
             for(int col = startCol; col <= endCol; col++)
             {
                 Console.Write($"{col}\t");
             }
-            Console.WriteLine();
+            Console.WriteLine(); // Move to next line
 
+            // Seperator
             Console.WriteLine("============================================================");
 
             for(int row = startRow; row <= endRow; row++)
