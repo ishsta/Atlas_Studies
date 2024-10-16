@@ -1,0 +1,15 @@
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\bin\Debug\net8.0\EncounterEnemies.exe
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\bin\Debug\net8.0\EncounterEnemies.deps.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\bin\Debug\net8.0\EncounterEnemies.runtimeconfig.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\bin\Debug\net8.0\EncounterEnemies.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\bin\Debug\net8.0\EncounterEnemies.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.AssemblyInfoInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.AssemblyInfo.cs
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.csproj.CoreCompileInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.sourcelink.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\refint\EncounterEnemies.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\EncounterEnemies.genruntimeconfig.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\EncounterEnemies\EncounterEnemies\obj\Debug\net8.0\ref\EncounterEnemies.dll
