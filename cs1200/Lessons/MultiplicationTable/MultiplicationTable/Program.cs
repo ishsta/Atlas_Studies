@@ -5,7 +5,7 @@ namespace MultiplicationTable
     class Program
     {
         static void Main()
-        {;
+        {
             // Get row and column info from user
             Console.Write("Enter starting value for rows: ");
             int startRow = Convert.ToInt32(Console.ReadLine());
