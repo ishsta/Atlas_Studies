@@ -33,7 +33,8 @@ namespace MultiplicationTable
 
             for(int row = startRow; row <= endRow; row++)
             {
-                Console.Write("\t"); // Clean up code, Align middle
+                //Console.Write("\t"); // Clean up code, Align middle
+                Console.Write($"{row}\t"); // print row number
                 for(int col = startCol; col <= endCol; col++)
                 {
                     Console.Write($"{row * col}\t");
