@@ -1,0 +1,15 @@
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\bin\Debug\net8.0\RPGClasses.exe
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\bin\Debug\net8.0\RPGClasses.deps.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\bin\Debug\net8.0\RPGClasses.runtimeconfig.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\bin\Debug\net8.0\RPGClasses.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\bin\Debug\net8.0\RPGClasses.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.AssemblyInfoInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.AssemblyInfo.cs
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.sourcelink.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\refint\RPGClasses.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\RPGClasses.genruntimeconfig.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Lessons\RPGClasses\RPGClasses\obj\Debug\net8.0\ref\RPGClasses.dll
