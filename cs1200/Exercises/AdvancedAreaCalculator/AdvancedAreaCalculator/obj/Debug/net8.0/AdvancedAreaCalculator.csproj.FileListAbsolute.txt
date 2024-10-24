@@ -1,0 +1,15 @@
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\bin\Debug\net8.0\AdvancedAreaCalculator.exe
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\bin\Debug\net8.0\AdvancedAreaCalculator.deps.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\bin\Debug\net8.0\AdvancedAreaCalculator.runtimeconfig.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\bin\Debug\net8.0\AdvancedAreaCalculator.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\bin\Debug\net8.0\AdvancedAreaCalculator.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.AssemblyInfo.cs
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.sourcelink.json
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\refint\AdvancedAreaCalculator.dll
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.pdb
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\AdvancedAreaCalculator.genruntimeconfig.cache
+C:\Users\Ishsta\repos\Atlas_Studies\cs1200\Exercises\AdvancedAreaCalculator\AdvancedAreaCalculator\obj\Debug\net8.0\ref\AdvancedAreaCalculator.dll
