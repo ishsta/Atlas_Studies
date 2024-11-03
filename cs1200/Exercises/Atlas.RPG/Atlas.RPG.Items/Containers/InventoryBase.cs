@@ -1,6 +1,6 @@
 namespace Atlas.RPG.Items;
 
-public class InventoryBase
+public abstract class InventoryBase
 {
     protected int _capacity;
     protected ItemBase[] _contents;
@@ -36,5 +36,19 @@ public class InventoryBase
             }
         }
         return null;
+    }
+
+    public virtual void ListContents()
+    {
+        Console.WriteLine("Contents");
+        Console.WriteLine("=================");
+        
+        for (int i = 0; i < _capacity; i++)
+        {
+            if (_contents[i] != null)
+            {
+                Console.WriteLine($"{_contents[i].ItemType}\t\t| {_contents[i].Name}\t\t|\t{_contents[i].Weight}kg | $ {_contents[i].Value}");
+            }
+        }
     }
 }

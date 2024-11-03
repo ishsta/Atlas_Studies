@@ -6,6 +6,6 @@ public abstract class ItemBase
     public string Description { get; set; }
     public double Weight { get; set; }
     public decimal Value { get; set; }
-    public string ItemType {get; set; }
+    public ItemType ItemType {get; set; }
 
 }

@@ -2,13 +2,13 @@ namespace Atlas.RPG.Items.Weapons;
 
 public class Sword : WeaponBase
 {
-    public Sword(string itemType, int damage, string name, string description, int weight, int value)
+    public Sword()
     {
-        ItemType = itemType;
-        Damage = damage;
-        Name = name;
-        Description = description;
-        Weight = weight;
-        Value = value;
+        ItemType = ItemType.Weapon;
+        Damage = 5;
+        Name = "Iron Sword";
+        Description = "A standard Iron Sword";
+        Weight = 4;
+        Value = 100;
     }
 }

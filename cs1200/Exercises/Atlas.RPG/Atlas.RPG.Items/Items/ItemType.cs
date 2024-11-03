@@ -1,4 +1,4 @@
-//enum
+namespace Atlas.RPG.Items;
 public enum ItemType
 {
     Weapon,
