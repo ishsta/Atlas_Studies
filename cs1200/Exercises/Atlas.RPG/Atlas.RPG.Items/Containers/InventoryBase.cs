@@ -47,7 +47,7 @@ public abstract class InventoryBase
         {
             if (_contents[i] != null)
             {
-                Console.WriteLine($"{_contents[i].ItemType}\t\t| {_contents[i].Name}\t\t|\t{_contents[i].Weight}kg | $ {_contents[i].Value}");
+                Console.WriteLine($"{_contents[i].ItemType,-10} | {_contents[i].Name,-20} | {_contents[i].Weight,6}kg | $ {_contents[i].Value,4}");
             }
         }
     }
