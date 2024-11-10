@@ -22,7 +22,7 @@ public class DictionaryWordSource : IWordSource
         int index = num.Next(words.Length);
         string randWord = words[index];
 
-        Console.WriteLine($"A random word has been selected from teh dictionary, it is {randWord.Length} letters long");
+        Console.WriteLine($"A random word has been selected from the dictionary, it is {randWord.Length} letters long");
         Console.WriteLine("Press any key to continue...");
         Console.ReadKey();
         Console.Clear();

@@ -1,4 +1,5 @@
 using System.Runtime.CompilerServices;
+using System;
 
 namespace Hangman.BLL;
 
@@ -8,14 +9,18 @@ public class Game
     private readonly char[] currentGuess;
     private int strikesRemaining;
     private const int maxStrikes = 5;
+    private readonly bool enableConsoleRead;
 
-    public Game(string word)
+    public Game(string word, bool enableConsoleRead = true)
     {
         wordToGuess = word;
         currentGuess = new string('_', word.Length).ToCharArray();
         strikesRemaining = maxStrikes;
+        this.enableConsoleRead = enableConsoleRead;
     }
 
+    public int StrikesRemaining => strikesRemaining;
+    public string CurrentGuess => string.Join(" ", currentGuess);
     public bool IsGameOver => strikesRemaining <= 0 || IsWordGuessed();
 
     public void DisplayGameState()
@@ -36,9 +41,10 @@ public class Game
                 UpdateCurrentGuess(letter);
                 if (IsWordGuessed())
                 {
+                    wins++;
                     Console.WriteLine($"{playerName} guessed the word. They win!");
                     Console.WriteLine("Press any key to continue...");
-                    Console.ReadKey();
+                    if (enableConsoleRead) Console.ReadLine();
                     return;
                 }
                 else
@@ -58,7 +64,7 @@ public class Game
                     Console.WriteLine($"{playerName} is out of strikes. They lose!");
                     Console.WriteLine($"{playerName}'s record is {wins}W-{losses}L.");
                     Console.WriteLine("Press any key to continue...");
-                    Console.ReadKey();
+                    if (enableConsoleRead) Console.ReadLine();
                     return;
                 }
             }
@@ -71,8 +77,9 @@ public class Game
             }
             Console.WriteLine($"{playerName} guessed the word. They win!");
             Console.WriteLine("Press and key to continue...");
-            Console.ReadKey();
-            Console.Clear();
+            wins++;
+            if (enableConsoleRead) Console.ReadLine();
+            if (enableConsoleRead) Console.Clear();
             return;
         }
         else
@@ -82,8 +89,8 @@ public class Game
         }
 
         Console.WriteLine("Press any key to continue...");
-        Console.ReadKey();
-        Console.Clear();
+        if (enableConsoleRead) Console.ReadLine();
+        if (enableConsoleRead) Console.Clear();
     }
 
     private int UpdateCurrentGuess(char letter)
@@ -104,16 +111,16 @@ public class Game
 
     public void EndGameMessage(string playerName, ref int wins, ref int losses)
     {
-        if (IsWordGuessed())
-        {
-            Console.WriteLine($"{playerName} guesses the word. They win!");
-            wins++;
-        }
-        else
-        {
-            Console.WriteLine($"{playerName} is out of strikes. They lose!");
-            losses++;
-        }
+        // if (IsWordGuessed())
+        // {
+        //     Console.WriteLine($"{playerName} guesses the word. They win!");
+        //     wins++;
+        // }
+        // else
+        // {
+        //     Console.WriteLine($"{playerName} is out of strikes. They lose!");
+        //     losses++;
+        // }
         Console.WriteLine($"{playerName}'s record is {wins}W-{losses}L.");
     }
 }

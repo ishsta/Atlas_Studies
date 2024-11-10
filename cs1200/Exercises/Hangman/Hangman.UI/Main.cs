@@ -31,9 +31,13 @@ class Program
                 {
                     game.ProcessGuess(input, playerName, ref wins, ref losses);
                 }
-            }
 
-            game.EndGameMessage(playerName, ref wins, ref losses);
+                if (game.IsGameOver)
+                {
+                    game.EndGameMessage(playerName, ref wins, ref losses);
+                    break;
+                }
+            }
 
             Console.Write("Play another game (y/n): ");
             if (Console.ReadLine().Trim().ToLower() != "y")

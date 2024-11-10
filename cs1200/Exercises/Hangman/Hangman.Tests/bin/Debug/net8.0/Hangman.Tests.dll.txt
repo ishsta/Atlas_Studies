@@ -1,0 +1,5 @@
+Hangman.Tests.GameTests.InitialStateTest
+Hangman.Tests.GameTests.SingleLetterGuessTest
+Hangman.Tests.GameTests.WholeWordGuessTest
+Hangman.Tests.GameTests.StrikesDepletedTest
+Hangman.Tests.GameTests.CorrectUpdateTest
