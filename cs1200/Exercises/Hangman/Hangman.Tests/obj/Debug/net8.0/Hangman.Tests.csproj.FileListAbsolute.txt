@@ -1,0 +1,12 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\bin\Debug\net8.0\Hangman.Tests.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\bin\Debug\net8.0\Hangman.Tests.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\bin\Debug\net8.0\Hangman.Tests.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\refint\Hangman.Tests.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\Hangman.Tests.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.Tests\obj\Debug\net8.0\ref\Hangman.Tests.dll

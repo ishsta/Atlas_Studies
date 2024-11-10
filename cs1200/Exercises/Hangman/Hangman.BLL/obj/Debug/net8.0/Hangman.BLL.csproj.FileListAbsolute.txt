@@ -1,0 +1,12 @@
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.AssemblyInfoInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.AssemblyInfo.cs
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.sourcelink.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\bin\Debug\net8.0\Hangman.BLL.deps.json
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\bin\Debug\net8.0\Hangman.BLL.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\bin\Debug\net8.0\Hangman.BLL.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\refint\Hangman.BLL.dll
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\Hangman.BLL.pdb
+C:\Users\Administrator\repos\Atlas_Studies\cs1200\Exercises\Hangman\Hangman.BLL\obj\Debug\net8.0\ref\Hangman.BLL.dll

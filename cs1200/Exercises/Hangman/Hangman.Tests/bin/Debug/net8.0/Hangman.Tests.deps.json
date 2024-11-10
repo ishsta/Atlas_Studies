@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hangman.Tests/1.0.0": {
+        "runtime": {
+          "Hangman.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hangman.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

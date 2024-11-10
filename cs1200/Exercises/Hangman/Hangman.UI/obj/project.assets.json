@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Hangman.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Hangman.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hangman.BLL.dll": {}
+        }
+      },
+      "Hangman.Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Hangman.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hangman.Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hangman.BLL/1.0.0": {
+      "type": "project",
+      "path": "../Hangman.BLL/Hangman.BLL.csproj",
+      "msbuildProject": "../Hangman.BLL/Hangman.BLL.csproj"
+    },
+    "Hangman.Tests/1.0.0": {
+      "type": "project",
+      "path": "../Hangman.Tests/Hangman.Tests.csproj",
+      "msbuildProject": "../Hangman.Tests/Hangman.Tests.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Hangman.BLL >= 1.0.0",
+      "Hangman.Tests >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.UI\\Hangman.UI.csproj",
+      "projectName": "Hangman.UI",
+      "projectPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.UI\\Hangman.UI.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.BLL\\Hangman.BLL.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.BLL\\Hangman.BLL.csproj"
+            },
+            "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.Tests\\Hangman.Tests.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Hangman\\Hangman.Tests\\Hangman.Tests.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.UI", "Hangman.UI\Hangman.UI.csproj", "{61B9BF79-5360-4C31-9B3D-820646B4E95F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.BLL", "Hangman.BLL\Hangman.BLL.csproj", "{49E54EA2-CD62-44A1-A301-7CFE7A392DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman.Tests", "Hangman.Tests\Hangman.Tests.csproj", "{8A7CCE9E-BEE6-4883-AE2B-00A8F8BA3D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B9BF79-5360-4C31-9B3D-820646B4E95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B9BF79-5360-4C31-9B3D-820646B4E95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B9BF79-5360-4C31-9B3D-820646B4E95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B9BF79-5360-4C31-9B3D-820646B4E95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E54EA2-CD62-44A1-A301-7CFE7A392DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E54EA2-CD62-44A1-A301-7CFE7A392DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E54EA2-CD62-44A1-A301-7CFE7A392DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E54EA2-CD62-44A1-A301-7CFE7A392DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7CCE9E-BEE6-4883-AE2B-00A8F8BA3D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7CCE9E-BEE6-4883-AE2B-00A8F8BA3D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7CCE9E-BEE6-4883-AE2B-00A8F8BA3D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7CCE9E-BEE6-4883-AE2B-00A8F8BA3D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
