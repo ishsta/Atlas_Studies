@@ -23,7 +23,11 @@ public class Tests
             //Name = "Item 2"
         };
 
+<<<<<<< Updated upstream
         var item3 = new LeatherArmor
+=======
+        var item3 = new Sword
+>>>>>>> Stashed changes
         {
             //Name = "Item 3"
         };
@@ -31,8 +35,12 @@ public class Tests
         Console.WriteLine("Add Items Tests");
         Console.WriteLine($"Can add first item: {container.AddItem(item1)}");
         Console.WriteLine($"Can add second item: {container.AddItem(item2)}");
+<<<<<<< Updated upstream
         Console.WriteLine($"Cannot add third item: {!container.AddItem(item3)}");
         Console.WriteLine("List contents test: ");
+=======
+        Console.WriteLine($"Cannot add third item: {container.AddItem(item3)}");
+>>>>>>> Stashed changes
         container.ListContents();
 
         Console.WriteLine("\nRemove Items Tests");
