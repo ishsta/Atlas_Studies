@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\Ishsta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\Atlas.RPG.Items.csproj",
+      "projectUniqueName": "C:\\Users\\Ishsta\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\Atlas.RPG.Items.csproj",
       "projectName": "Atlas.RPG.Items",
-      "projectPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\Atlas.RPG.Items.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\obj\\",
+      "projectPath": "C:\\Users\\Ishsta\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\Atlas.RPG.Items.csproj",
+      "packagesPath": "C:\\Users\\Ishsta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ishsta\\repos\\Atlas_Studies\\cs1200\\Exercises\\Atlas.RPG\\Atlas.RPG.Items\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ishsta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
